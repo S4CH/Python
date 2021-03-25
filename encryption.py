@@ -39,3 +39,6 @@ while 1 > 0:
             lolmsg = lolmsg + chars[int(digit)]
             i += 1
         print("your message has been decrypted: " + lolmsg)
+
+#        Enjoy
+
